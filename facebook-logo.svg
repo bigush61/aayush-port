@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="title desc">
+  <title id="title">Facebook logo</title>
+  <desc id="desc">Simple Facebook letter icon.</desc>
+  <circle cx="32" cy="32" r="28" fill="#1877f2"/>
+  <path fill="white" d="M37.8 20.5h5.4v-8.1c-.9-.1-4.2-.4-7.9-.4-7.9 0-13.3 4.8-13.3 13.7v7.6h-8.9v9.1H22V64h10.9V42.4h8.6l1.4-9.1h-10v-6.7c0-2.6.7-6.1 4.9-6.1z"/>
+</svg>
